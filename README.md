@@ -1,2 +1,2 @@
 # WildEye
-a wildLife monitoring project , which can detect person and human , objects
+a wildLife monitoring project , which can detect animals, persons and objects,
